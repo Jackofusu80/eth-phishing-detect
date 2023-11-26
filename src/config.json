@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "eth-qr-code.su",
     "alerts-earndrop.io",
     "earndrop.eu",
     "earnsdrop.eu",
